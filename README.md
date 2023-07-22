@@ -19,7 +19,7 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://rub1nh0.github.io/Projeto-QRcode-Frontendmentor/)
 
 ## My process
 
@@ -30,8 +30,8 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 - Flexbox
 
 ## Author
-
-- Github - [Rubinho](https://github.com/Rub1nh0)
+- Instagram - [@sr.sparano](https://www.instagram.com/sr.sparano/)
 - Frontend Mentor - [@Rub1nh0](https://www.frontendmentor.io/profile/Rub1nh0)
 - Twitter - [@rubsparano](https://twitter.com/rubsparano)
+- LinkedIn -[RUBENS SPARANO FILHO](https://www.linkedin.com/in/rubens-sparano-filho-ba4507275/)
 
